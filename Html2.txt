@@ -1,0 +1,19 @@
+Q1) explain table and it's properties
+Ans) Table is html element that allows you to create a tabular structure.This tabular structure can be created by using table tag,
+In that table tag depends on these properties
+First is thead <th> tag this tag will set the heading of the table
+Second one tr that is used to create attributes of the table
+Third one is td that will be used to set data in the cells of the tables
+
+Q2) Explain all the media tags and how they work
+Ans) media tags in html are the tags which are used to set media in our html dom such media can be an image or video . And we can set that medias by using img and video tag 
+Both the tags will take the src link to set the media and it's alternative if media not worked .
+
+Q3) What is get and post in form 
+Ans) Get and post are the methods of getting or setting the data.because that is connected to the action source present in the form that action has our backend route
+And with respect to that these get post and other methods will work.
+
+Q4)list all the inputs tags present in form
+Ans) there are various input tags in the form.
+Such as input with type text which is basically the search bar , input with type radio to select one option
+, Input with type checkbox to tick something, input with type submit used to submit the form and much more.
