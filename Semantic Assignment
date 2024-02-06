@@ -20,3 +20,4 @@ Form Controls: HTML5 introduced several new input types (<input type="date">, <i
 Web Workers: HTML5 introduced the Web Workers API, which allows developers to run JavaScript code in background threads separate from the main execution thread. This enables parallel processing and improves the responsiveness of web applications, especially for CPU-intensive tasks.
 
 Websockets: HTML5 introduced the WebSocket API, which enables bidirectional communication between web clients and servers over a single, long-lived TCP connection. This allows for real-time, low-latency data exchange between the client and server, making it well-suited for applications like online gaming, chat applications, and live data streaming.
+
