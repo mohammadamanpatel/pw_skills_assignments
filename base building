@@ -1,1 +1,54 @@
-https://github.com/mohammadamanpatel/pw_skills_assignments
+Q1) What is internet explain in your own words ?
+
+Ans) Imagine the internet as a giant spiderweb, but instead of catching bugs, it catches information! This web connects computers all over the world, allowing them to share information and communicate with each other. It's like a giant library with everything you can imagine, all accessible at your fingertips, as long as you have a device connected to the web.
+
+Here's what you can do on this amazing web:
+
+Find information: Need to know something? The internet has it all, from news articles and educational resources to funny cat videos and historical documents.
+Connect with people: Chat with friends and family who are far away, join online communities about your interests, or even play games with people from all over the world.
+
+Shop and bank: Buy almost anything you can imagine online, from clothes and books to groceries and furniture. You can also manage your bank accounts and pay bills without ever leaving your home.
+Learn and explore: Take online courses, watch educational videos, or simply browse through interesting websites to learn new things and discover new cultures.
+
+Create and share: Share your own thoughts, ideas, and creations with the world through blogs, social media, or even your own website.
+
+And that's just the tip of the iceberg! The internet is constantly evolving, with new possibilities emerging all the time. So next time you go online, remember you're not just browsing websites, you're exploring a vast and interconnected world of information and communication.
+
+Q2)What is web browser explain in your own words?
+
+Ans)Imagine the internet as a giant ocean of information. A web browser is your boat, helping you navigate and explore this vast digital sea.
+
+Here's how it works:
+
+Your map: You type a website address (like a GPS for the internet) into the address bar, and the browser acts like your map, figuring out the best way to find that website.
+Your translator: Websites are written in a special language that computers understand, not humans. The browser acts like your translator, converting that language into something you can see and interact with: text, images, videos, and more.
+Your guide: If you click on a link, it's like following a path on your map. The browser takes you to a new website, expanding your exploration.
+Your toolbox: Browsers have built-in tools to make your journey smoother. You can bookmark your favorite websites, save things you find interesting, and even keep track of your online travels with history and tabs.
+So, while the internet holds all the information, your web browser is the tool that unlocks it, making it accessible and easy to navigate. It's your key to exploring the exciting world of the web!
+
+Q3) What is browser engine explain in your own words?
+
+Ans) A browser engine is like the invisible chef in the kitchen of your web browser. It takes all the raw ingredients of a website, like the HTML code, CSS styles, and images, and cooks them up into the delicious and interactive web page you see on your screen. Here's what it does:
+
+Recipe interpreter: Imagine the HTML code as a recipe. The browser engine reads and understands these instructions, telling it where to place text, images, and videos on the page.
+Stylist: Just like a good chef follows a recipe, the engine also uses the CSS styles to add flair and design to the page, setting the fonts, colors, and layout.
+Builder: With the instructions clear and the ingredients prepped, the engine builds the page piece by piece, arranging everything according to the plan.
+Interactivity master: Websites aren't just static pictures; they can respond to your clicks and actions. The engine handles this interactivity, making sure buttons work, animations play, and forms submit correctly.
+Security guard: Just like a chef wouldn't serve bad ingredients, the engine keeps you safe by checking for harmful code and preventing malicious websites from doing damage.
+So, while you might not see the browser engine directly, it's working hard behind the scenes to make your web browsing experience smooth, secure, and enjoyable. It's the hidden hero that turns plain code into the rich and interactive websites you visit every day.
+
+Q4) What is static site explain in your own words?
+
+Ans)Imagine a website like a printed poster – it shows the same information to everyone who sees it. That's a static site! It's different from interactive websites that change depending on who's visiting or what they do. Here's the gist:
+
+Building blocks: Static sites are built with plain HTML, CSS, and JavaScript files, like the bricks and mortar of a poster. These files hold all the text, images, and styles you see on the page.
+
+Fixed content: Unlike interactive sites that adjust based on user input, static sites display the same content to everyone. Think of it like a snapshot in time, captured and displayed exactly as it is.
+
+Q5) what are dynamic sites explain in your own words?
+Ans) 
+Imagine a website that's more like a chameleon than a printed poster. It can change its colors and adapt to its surroundings – that's a dynamic site! Unlike static sites with fixed content, dynamic sites are more versatile and responsive. Here's how they work:
+
+Magic behind the scenes: Instead of pre-built files, dynamic sites use programming languages like Python or PHP to generate content on the fly. Think of it like a recipe – the code takes ingredients like user data, database information, and preferences, and cooks them up into a personalized page just for you.
+
+Tailored experience: Dynamic sites can adjust based on who's visiting and what they do. For example, an online store might show different product recommendations depending on your past purchases. It's like having a website that remembers you and caters to your specific needs.
