@@ -75,13 +75,6 @@ They can be used to resize the image within the HTML document.
 It's recommended to specify these attributes to prevent layout shifts as the page loads.
 Example: <img src="path/to/image.jpg" alt="Description of the image" width="200" height="150">
 
-Importance:
-
-Images are essential for enhancing the visual appeal of web pages and conveying information effectively.
-They can be used to illustrate concepts, showcase products, provide visual instructions, etc.
-Adding descriptive alternative text (alt attribute) is crucial for accessibility, ensuring that users with visual impairments can understand the content of the image.
-Overall, the <img> tag is a fundamental element in HTML for embedding images into web pages, and understanding how to use it effectively is essential for web development.
-
 Q3 ans=>)
 To create lists in HTML, you can use either ordered lists <ol>, unordered lists <ul>, or definition lists <dl>. Here's how you can create each type of list:
 <ol>
