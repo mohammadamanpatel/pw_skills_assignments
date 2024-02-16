@@ -1,1 +1,121 @@
+Q1 ans=>)
+In HTML, inline elements and block-level elements are two types of elements used to structure and format the content of a web page. The main difference between them lies in how they are displayed and how they interact with other elements on the page.
 
+Inline Elements:
+Inline elements do not start on a new line and only take up as much width as necessary.
+They allow other elements to sit next to them on the same line.
+Examples of inline elements include <span>, <a>, <img>, <strong>, <em>, <input>, and <br>.
+Inline elements are typically used for small pieces of content or to apply formatting within a block-level element.
+Block-Level Elements:
+Block-level elements always start on a new line and occupy the full width available to them.
+They create a "block" of content that pushes adjacent content onto new lines before and after themselves.
+Examples of block-level elements include <div>, <p>, <h1> to <h6>, <ul>, <ol>, <li>, <table>, <form>, and <blockquote>.
+Block-level elements are commonly used for major structural elements of a web page, such as paragraphs, headings, lists, and sections.
+Key Differences:
+Display Behavior:
+
+Inline elements do not start on a new line and only take up as much width as necessary, allowing other elements to sit next to them.
+Block-level elements always start on a new line and occupy the full width available to them, creating a block of content.
+Width:
+
+Inline elements only take up as much width as necessary for their content.
+Block-level elements occupy the full width available to them by default.
+Default Styling:
+
+Inline elements cannot have padding, margin, or width applied to them horizontally, though they can have vertical padding and margin.
+Block-level elements can have padding, margin, and width applied to them in both horizontal and vertical directions.
+Nested Structure:
+
+Inline elements can be nested within other inline elements or block-level elements.
+Block-level elements cannot be nested within inline elements, but they can contain other block-level elements and inline elements.
+Common Usage:
+
+Inline elements are often used for small pieces of content, such as text formatting or inline images.
+Block-level elements are commonly used for major structural elements of a web page, such as paragraphs, headings, lists, and sections.
+
+Q2 ans=>)
+
+In HTML, working with images is straightforward, and the <img> tag is used to embed images into web pages. Here's how you can use the <img> tag to include images in your HTML document:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Example</title>
+</head>
+<body>
+    <!-- Embedding an image -->
+    <img src="path/to/image.jpg" alt="Description of the image">
+
+    <!-- Using an external image -->
+    <img src="https://example.com/image.jpg" alt="Description of the image">
+
+    <!-- Image with specified width and height -->
+    <img src="path/to/image.jpg" alt="Description of the image" width="200" height="150">
+</body>
+</html>
+Now, let's break down the important attributes of the <img> tag and their significance:
+
+src (Source):
+
+The src attribute specifies the URL or file path to the image you want to display.
+It can be a relative path (to the current HTML file) or an absolute URL pointing to an external image.
+Example: <img src="path/to/image.jpg" alt="Description of the image">
+
+alt (Alternative Text):
+
+The alt attribute provides alternative text for the image, which is displayed if the image fails to load or for accessibility purposes.
+It should be descriptive and convey the purpose or content of the image.
+Example: <img src="path/to/image.jpg" alt="Description of the image">
+
+width and height (Optional):
+
+The width and height attributes specify the dimensions of the image in pixels.
+They can be used to resize the image within the HTML document.
+It's recommended to specify these attributes to prevent layout shifts as the page loads.
+Example: <img src="path/to/image.jpg" alt="Description of the image" width="200" height="150">
+
+Importance:
+
+Images are essential for enhancing the visual appeal of web pages and conveying information effectively.
+They can be used to illustrate concepts, showcase products, provide visual instructions, etc.
+Adding descriptive alternative text (alt attribute) is crucial for accessibility, ensuring that users with visual impairments can understand the content of the image.
+Overall, the <img> tag is a fundamental element in HTML for embedding images into web pages, and understanding how to use it effectively is essential for web development.
+
+Q3 ans=>)
+To create lists in HTML, you can use either ordered lists <ol>, unordered lists <ul>, or definition lists <dl>. Here's how you can create each type of list:
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+<dl>
+  <dt>Term 1</dt>
+  <dd>Description 1</dd>
+  <dt>Term 2</dt>
+  <dd>Description 2</dd>
+</dl>
+
+Q4 ans=>)
+In HTML, you can create hyperlinks to interlink web pages within your own website or navigate users to external websites. Hyperlinks are created using the <a> (anchor) element. Here's how you can create both internal and external links:
+
+Internal Links (Within Your Website):
+To link to a page within your own website, you need to specify the relative URL of the target page within the href attribute of the <a> element.
+<a href="page.html">Link Text</a>
+
+External Links (Other Websites):
+To link to an external website, you need to specify the complete URL of the target website within the href attribute of the <a> element.
+<a href="https://www.example.com">Link Text</a>
+
+Opening Links in a New Tab:
+You can add the target="_blank" attribute to open the linked page in a new browser tab.
+<a href="https://www.example.com" target="_blank">Link Text</a>
+
+These are the basic methods for creating hyperlinks in HTML to navigate users within your website or to external websites.
